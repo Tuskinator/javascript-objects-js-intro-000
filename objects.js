@@ -1,7 +1,7 @@
 var playlist = {
-  Ed Sheeran: "Like a river",
-  Neon Trees: "Everybody talks"
+  EdSheeran: "Like a river",
+  NeonTrees: "Everybody talks"
 }
-function updatePlaylist() {
-  
+function updatePlaylist(object, string, ) {
+
 }
